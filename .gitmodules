@@ -1,0 +1,3 @@
+[submodule "libs/seedimg"]
+	path = libs/seedimg
+	url = https://github.com/telugu-boy/seedimg
